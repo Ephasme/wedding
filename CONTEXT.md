@@ -22,19 +22,19 @@
 
 ## Prestataires
 
-| Poste        | Statut            | Prestataire                                      | Coût    | Acompte |
-| ------------ | ----------------- | ------------------------------------------------ | ------- | ------- |
-| Lieu         | ✅ Réservé        | [Château de Prunay](https://chateaudeprunay.fr/) | 4 500 € | 2 250 € |
-| Photographe  | ✅ Réservé        | [Zoé Satché](https://zoesatche.com/)             | 2 400 € | —       |
-| Robe mariée  | ✅ Commandée      | —                                                | 4 775 € | versé   |
-| Coiffeur     | 🔄 À contacter    | Bloom Square (Jean-Sebastien)                    | —       | —       |
-| Traiteur     | ❌ À trouver      | Ancien contact : Nono (Refusé)                   | —       | —       |
-| Enfants      | 🔄 Devis en cours | Pikoty / Wedding Sitter                          | —       | —       |
-| DJ/Musiciens | 🔄 En cours       | —                                                | —       | —       |
-| Décoration   | 🔄 En attente     | Moodboard attendu mardi (inclut les fleurs)      | —       | —       |
-| Costume      | ❌ À chercher     | Sézane, Les Nouveaux Ateliers, Husbands...       | —       | —       |
-| Vidéaste     | ❌ À réserver     | —                                                | —       | —       |
-| Officiant    | ❌ À choisir      | —                                                | —       | —       |
+| Poste        | Statut            | Prestataire                                                                                      | Coût    | Acompte |
+| ------------ | ----------------- | ------------------------------------------------------------------------------------------------ | ------- | ------- |
+| Lieu         | ✅ Réservé        | [Château de Prunay](https://chateaudeprunay.fr/)                                                 | 4 500 € | 2 250 € |
+| Photographe  | ✅ Réservé        | [Zoé Satché](https://zoesatche.com/)                                                             | 2 400 € | —       |
+| Robe mariée  | ✅ Commandée      | —                                                                                                | 4 775 € | versé   |
+| Coiffeur     | 🔄 À contacter    | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
+| Traiteur     | ❌ À trouver      | Ancien contact : Nono (Refusé)                                                                   | —       | —       |
+| Enfants      | 🔄 Devis en cours | Pikoty / Wedding Sitter                                                                          | —       | —       |
+| DJ/Musiciens | 🔄 En cours       | —                                                                                                | —       | —       |
+| Décoration   | 🔄 Devis reçu     | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
+| Costume      | ❌ À chercher     | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
+| Vidéaste     | ❌ À réserver     | —                                                                                                | —       | —       |
+| Officiant    | ❌ À choisir      | —                                                                                                | —       | —       |
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Budget total :** 20 000 €  
 **Déjà engagé :** 11 675 € (58%)  
-**Reste à allouer :** 8 325 €
+**Reste à allouer :** 8 325 € (⚠️ Budget théorique dépassé avec le devis Déco)
 
 ### Répartition prévisionnelle
 
@@ -51,7 +51,7 @@
 - Photographe : 2 400 € ✅ (12%)
 - Vidéaste : ~1 500 € ❌ (8%)
 - Robe mariée : 4 775 € ✅ (24%)
-- Déco/fleurs : ~1 200 € ⏸️ (6%)
+- Déco/fleurs : 4 320 € (Amazing Moments) à 6 720 € (Dolly) 🔄 (Dépassement prévu +3.1k à +5.5k)
 - DJ/Musiciens : ~1 000 € 🔄 (5%)
 - Alcools/Caviste : ~1 000 € 🔄
 - Papeterie : ~400 € ⏸️ (2%)
@@ -88,13 +88,34 @@
 
 ### Décoration & Fleuriste
 
-Profils intéressants:
+**Comparatif des devis :**
 
-- https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299
-- https://www.mariages.net/decoration-mariage/amevent92--e396709
+| Poste             | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | [Amazing Moments Event](https://www.mariages.net/decoration-mariage/amevent92--e396709) |
+| :---------------- | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| **Total**         | **6 720 €**                                                                                      | **4 320 €**                                                                             |
+| **Cérémonie**     | 3 890 € (Cercle floral + allée)                                                                  | 1 250 € (Compo XL + allée + bouquet/boutonnière)                                        |
+| **Salle/Tables**  | 1 700 € (Centres de table)                                                                       | 1 990 € (Centres de table + Papeterie + Ciel de toit)                                   |
+| **Divers**        | 1 130 € (Bouquet, install, logistique)                                                           | 1 080 € (Panneau, Cadeaux invités, Chaises)                                             |
+| **Avantages**     | Design floral très haut de gamme                                                                 | Inclut papeterie, cadeaux, chaises et ciel de toit                                      |
+| **Inconvénients** | Très cher, hors budget (+5.5k)                                                                   | Style peut-être moins "fleuriste pur" ?                                                 |
 
-Documents:
-documents/quotes/Devis-n--68.pdf
+**Pistes sérieuses :**
+
+1. **Dolly Event Designer**
+
+   - **Statut :** Devis reçu (6 720 €) - En attente du Moodboard.
+   - **Devis :** `documents/quotes/Devis-n--68.pdf`
+
+2. **Amazing Moments Event (AmEvent92)**
+   - **Statut :** Devis reçu (4 320 €).
+   - **Devis :** `documents/quotes/quote-amazing-moments-event.jpg`
+   - **Détails :** Cérémonie (1250€), Salle + Papeterie + Ciel de toit (1990€), Panneau (190€), Cadeaux (350€), Chaises (540€).
+   - **Note :** Nettement moins cher que Dolly (-2 400 €) et inclut plus de prestations (papeterie, chaises, cadeaux). Reste au-dessus du budget initial (1 200 €).
+
+**Documents :**
+
+- `documents/quotes/Devis-n--68.pdf` (Dolly Event Designer)
+- `documents/quotes/quote-amazing-moments-event.jpg` (Amazing Moments Event)
 
 ---
 
