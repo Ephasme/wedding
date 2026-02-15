@@ -12,7 +12,7 @@
 ## 🚨 Actions prioritaires (7 prochains jours)
 
 1. **Prestataires Enfants** — Choisir, signer et verser l'acompte (Pikoty ou Wedding Sitter)
-2. **DJ/Musiciens** — Finaliser shortlist et réserver (transmettre préférences musicales)
+2. **DJ/Musiciens** — Shortlist contactée (15/02), en attente de devis.
 3. **Décoratrice/Fleuriste** — Suivre l'envoi du moodboard (attendu ce mardi)
 4. **Boissons/Alcools** — Trouver un caviste (40 bouteilles Champagne + Vins blancs)
 5. **Coiffeur** — Appeler Jean-Sebastien (Bloom Square) pour caler le RDV
@@ -22,19 +22,19 @@
 
 ## Prestataires
 
-| Poste        | Statut            | Prestataire                                                                                      | Coût    | Acompte |
-| ------------ | ----------------- | ------------------------------------------------------------------------------------------------ | ------- | ------- |
-| Lieu         | ✅ Réservé        | [Château de Prunay](https://chateaudeprunay.fr/)                                                 | 4 500 € | 2 250 € |
-| Photographe  | ✅ Réservé        | [Zoé Satché](https://zoesatche.com/)                                                             | 2 400 € | —       |
-| Robe mariée  | ✅ Commandée      | —                                                                                                | 4 775 € | versé   |
-| Coiffeur     | 🔄 À contacter    | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
-| Traiteur     | ❌ À trouver      | Ancien contact : Nono (Refusé)                                                                   | —       | —       |
-| Enfants      | 🔄 Devis reçus    | Pikoty (Recommandé) / Wedding Sitter                                                             | ~660 €  | —       |
-| DJ/Musiciens | 🔄 En cours       | —                                                                                                | —       | —       |
-| Décoration   | 🔄 Devis reçu     | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
-| Costume      | ❌ À chercher     | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
-| Vidéaste     | ❌ À réserver     | —                                                                                                | —       | —       |
-| Officiant    | ❌ À choisir      | —                                                                                                | —       | —       |
+| Poste        | Statut         | Prestataire                                                                                      | Coût    | Acompte |
+| ------------ | -------------- | ------------------------------------------------------------------------------------------------ | ------- | ------- |
+| Lieu         | ✅ Réservé     | [Château de Prunay](https://chateaudeprunay.fr/)                                                 | 4 500 € | 2 250 € |
+| Photographe  | ✅ Réservé     | [Zoé Satché](https://zoesatche.com/)                                                             | 2 400 € | —       |
+| Robe mariée  | ✅ Commandée   | —                                                                                                | 4 775 € | versé   |
+| Coiffeur     | 🔄 À contacter | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
+| Traiteur     | ❌ À trouver   | Ancien contact : Nono (Refusé)                                                                   | —       | —       |
+| Enfants      | 🔄 Devis reçus | Pikoty (Recommandé) / Wedding Sitter                                                             | ~660 €  | —       |
+| DJ/Musiciens | 🔄 Contactés | En attente de devis (envoyés le 15/02/2026 à 23h03)                                               | —       | —       |
+| Décoration   | 🔄 Devis reçu  | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
+| Costume      | ❌ À chercher  | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
+| Vidéaste     | ❌ À réserver  | —                                                                                                | —       | —       |
+| Officiant    | ❌ À choisir   | —                                                                                                | —       | —       |
 
 ---
 
@@ -69,23 +69,44 @@
 
 ### Goûts musicaux
 
-**Univers apprécié** — Morceaux atmosphériques, émotionnels, avec une montée en intensité. Son indie/alternative, voix expressives, productions soignées. Le couple aime les titres qui créent une ambiance immersive plutôt qu'un fond sonore générique.
+**Univers apprécié** — Deux piliers : l'indie rock/alternative (Arctic Monkeys, Tame Impala, Arcade Fire) et l'électronique sombre à coloration rétro-80s (synthwave, darkwave, synth-pop — Mr.Kitty, Pastel Ghost, deadmau5). Le fil conducteur est l'atmosphère immersive : nappes de synthés, productions soignées, montées en intensité. Certains titres misent sur la voix (Hozier, Tamino, Gang of Youths), d'autres sur la texture sonore pure (Strobe, Shadow Lady, Dark Beach). Le couple privilégie les morceaux qui créent un univers plutôt qu'un simple fond sonore.
 
 **Références :**
 
-- Sail — AWOLNATION
-- Cigar — Tamino
-- ocean eyes — Billie Eilish
-- After Dark — Mr.Kitty
-- Take Me to Church — Hozier
-- Daddy Issues — The Neighbourhood
-- Je te laisserai des mots — Patrick Watson
-- Achilles Come Down — Gang of Youths
-- Artistes additionnels : Chapell Roan, Maneskin, The Weeknd, Doja Cat, PinkPantheress.
+- 505 — Arctic Monkeys *(indie rock)*
+- Achilles Come Down — Gang of Youths *(baroque pop / indie rock)*
+- After Dark — Mr.Kitty *(synthwave / darkwave)*
+- bad idea! — girl in red *(indie rock / garage rock)*
+- Cigar — Tamino *(indie rock / alternative)*
+- Daddy Issues — The Neighbourhood *(alternative rock / synth-pop)*
+- Daddy Issues (Remix) — The Neighbourhood & Syd *(alternative R&B / synth-pop)*
+- Dark Beach — Pastel Ghost *(darkwave / dream pop)*
+- Faces — The M Machine *(synth-pop / electro)*
+- Je te laisserai des mots — Patrick Watson *(indie folk / cinématique)*
+- ocean eyes — Billie Eilish *(dream pop / electropop)*
+- ROI (Instrumental) — VIDEOCLUB (reprise Amadeus2049) *(synth-pop)*
+- Sail — AWOLNATION *(electronic rock)*
+- Shadow Lady — Portwave *(synthwave)*
+- Strobe — deadmau5 *(progressive house)*
+- Sweater Weather — The Neighbourhood *(indie rock / alternative)*
+- Swing Lynn — Harmless *(dream pop / indie rock)*
+- Take Me to Church — Hozier *(blues rock / soul)*
+- Tek It — Cafuné *(indie pop)*
+- The Less I Know The Better — Tame Impala *(disco-funk / psychedelic pop)*
+- The Suburbs — Arcade Fire *(indie rock / art rock)*
 
 **Playlist type :** [Lien YouTube Music](https://music.youtube.com/playlist?list=PLZS0fv0SgjlKqsUZ2S9lwsROW3gAdoPhu&si=NL4bqWvsAiumhWiy)
 
 **À éviter absolument** — Variété française kitsch (Patrick Sébastien, Claude François), tubes pop FM génériques des années 90/2000. Plus largement : tout morceau "ambiance mariage classique" joué par réflexe (Macarena, YMCA, etc.).
+
+### DJ à contacter
+
+https://www.mariages.net/musique-mariage/ouimix--e127323
+https://www.mariages.net/musique-mariage/dj-paris-event--e340578
+https://www.mariages.net/musique-mariage/greg-le-fourn--e399361
+https://www.mariages.net/musique-mariage/hermann-music--e319804
+https://www.mariages.net/musique-mariage/eric-sax-dj--e240182
+https://www.mariages.net/musique-mariage/p2g-event--e96692
 
 ### Décoration & Fleuriste
 
@@ -117,16 +138,17 @@
 
 **Comparatif des devis :**
 
-| Critère      | Pikoty Event (Recommandé)                                       | Wedding Sitter                      |
-| :----------- | :-------------------------------------------------------------- | :---------------------------------- |
+| Critère       | Pikoty Event (Recommandé)                                       | Wedding Sitter                      |
+| :------------ | :-------------------------------------------------------------- | :---------------------------------- |
 | **Total TTC** | **660,00 €**                                                    | **640,01 €**                        |
-| **Acompte**  | 30 % (198,00 €)                                                 | 50 % (320,01 €)                     |
+| **Acompte**   | 30 % (198,00 €)                                                 | 50 % (320,01 €)                     |
 | **Avantages** | Structure pro, animateurs diplômés, matériel certifié, flexible | Prix légèrement inférieur (-20 €)   |
-| **Risques**  | Faibles                                                         | Manque de mentions légales et cadre |
+| **Risques**   | Faibles                                                         | Manque de mentions légales et cadre |
 
 **Pistes sérieuses :**
 
 1. **Pikoty Event**
+
    - **Statut :** Devis reçu (660 €) - **Choix recommandé** pour la sécurité et le professionnalisme.
    - **Devis :** `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf`
    - **Brochure :** `documents/Animation_Enfants/BROCHURE - Pikoty Event - 2025.pdf`
@@ -183,7 +205,7 @@
 
 - [ ] **Mairie** : Confirmer le créneau définitif
 - [ ] **Vidéaste** : Réserver
-- [ ] **DJ** : Poursuivre la recherche et réserver (Shortlist en cours)
+- [x] **DJ** : Shortlist contactée le 15/02 (En attente de devis)
 - [ ] **Officiant** : Choisir pro ou proche
 
 #### 🟠 Retard Important (+9 mois)
