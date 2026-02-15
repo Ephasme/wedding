@@ -29,7 +29,7 @@
 | Robe mariée  | ✅ Commandée      | —                                                                                                | 4 775 € | versé   |
 | Coiffeur     | 🔄 À contacter    | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
 | Traiteur     | ❌ À trouver      | Ancien contact : Nono (Refusé)                                                                   | —       | —       |
-| Enfants      | 🔄 Devis en cours | Pikoty / Wedding Sitter                                                                          | —       | —       |
+| Enfants      | 🔄 Devis reçus    | Pikoty (Recommandé) / Wedding Sitter                                                             | ~660 €  | —       |
 | DJ/Musiciens | 🔄 En cours       | —                                                                                                | —       | —       |
 | Décoration   | 🔄 Devis reçu     | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
 | Costume      | ❌ À chercher     | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
@@ -52,6 +52,7 @@
 - Vidéaste : ~1 500 € ❌ (8%)
 - Robe mariée : 4 775 € ✅ (24%)
 - Déco/fleurs : 4 320 € (Amazing Moments) à 6 720 € (Dolly) 🔄 (Dépassement prévu +3.1k à +5.5k)
+- Enfants : ~660 € 🔄
 - DJ/Musiciens : ~1 000 € 🔄 (5%)
 - Alcools/Caviste : ~1 000 € 🔄
 - Papeterie : ~400 € ⏸️ (2%)
@@ -104,18 +105,43 @@
 1. **Dolly Event Designer**
 
    - **Statut :** Devis reçu (6 720 €) - En attente du Moodboard.
-   - **Devis :** `documents/quotes/Devis-n--68.pdf`
+   - **Devis :** `documents/Decoration/DEVIS - Dolly Event Designer.pdf`
 
 2. **Amazing Moments Event (AmEvent92)**
    - **Statut :** Devis reçu (4 320 €).
-   - **Devis :** `documents/quotes/quote-amazing-moments-event.jpg`
+   - **Devis :** `documents/Decoration/DEVIS - Amazing Moments Event.jpg`
    - **Détails :** Cérémonie (1250€), Salle + Papeterie + Ciel de toit (1990€), Panneau (190€), Cadeaux (350€), Chaises (540€).
    - **Note :** Nettement moins cher que Dolly (-2 400 €) et inclut plus de prestations (papeterie, chaises, cadeaux). Reste au-dessus du budget initial (1 200 €).
 
+### Animation Enfants
+
+**Comparatif des devis :**
+
+| Critère      | Pikoty Event (Recommandé)                                       | Wedding Sitter                      |
+| :----------- | :-------------------------------------------------------------- | :---------------------------------- |
+| **Total TTC** | **660,00 €**                                                    | **640,01 €**                        |
+| **Acompte**  | 30 % (198,00 €)                                                 | 50 % (320,01 €)                     |
+| **Avantages** | Structure pro, animateurs diplômés, matériel certifié, flexible | Prix légèrement inférieur (-20 €)   |
+| **Risques**  | Faibles                                                         | Manque de mentions légales et cadre |
+
+**Pistes sérieuses :**
+
+1. **Pikoty Event**
+   - **Statut :** Devis reçu (660 €) - **Choix recommandé** pour la sécurité et le professionnalisme.
+   - **Devis :** `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf`
+   - **Brochure :** `documents/Animation_Enfants/BROCHURE - Pikoty Event - 2025.pdf`
+
+2. **Wedding Sitter**
+   - **Statut :** Devis reçu (640 €).
+   - **Devis :** `documents/Animation_Enfants/DEVIS - Wedding Sitter.pdf`
+
 **Documents :**
 
-- `documents/quotes/Devis-n--68.pdf` (Dolly Event Designer)
-- `documents/quotes/quote-amazing-moments-event.jpg` (Amazing Moments Event)
+- `documents/Decoration/DEVIS - Dolly Event Designer.pdf` (Dolly Event Designer)
+- `documents/Decoration/DEVIS - Amazing Moments Event.jpg` (Amazing Moments Event)
+- `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf` (Pikoty Event)
+- `documents/Animation_Enfants/DEVIS - Wedding Sitter.pdf` (Wedding Sitter)
+- `documents/Animation_Enfants/ANALYSE - Comparatif Devis Animation.md` (Analyse comparative)
 
 ---
 
@@ -173,7 +199,7 @@
 
 #### 🔥 Urgences du mois (J-6)
 
-- [ ] **Prestataires Enfants** : Choisir et verser l'acompte (Priorité absolue)
+- [ ] **Prestataires Enfants** : Choisir entre Pikoty et Wedding Sitter et verser l'acompte (Priorité absolue)
 - [ ] **Traiteur** : Trouver une alternative suite au refus de Nono (Critique)
 
 #### ✅ Planning Normal
