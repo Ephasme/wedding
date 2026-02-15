@@ -71,6 +71,7 @@
 **Univers apprécié** — Morceaux atmosphériques, émotionnels, avec une montée en intensité. Son indie/alternative, voix expressives, productions soignées. Le couple aime les titres qui créent une ambiance immersive plutôt qu'un fond sonore générique.
 
 **Références :**
+
 - Sail — AWOLNATION
 - Cigar — Tamino
 - ocean eyes — Billie Eilish
@@ -85,11 +86,22 @@
 
 **À éviter absolument** — Variété française kitsch (Patrick Sébastien, Claude François), tubes pop FM génériques des années 90/2000. Plus largement : tout morceau "ambiance mariage classique" joué par réflexe (Macarena, YMCA, etc.).
 
+### Décoration & Fleuriste
+
+Profils intéressants:
+
+- https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299
+- https://www.mariages.net/decoration-mariage/amevent92--e396709
+
+Documents:
+documents/quotes/Devis-n--68.pdf
+
 ---
 
 ## Planning & checklist
 
 ### Phase J-18 à J-12 mois
+
 - [x] Réserver le lieu de réception (Château de Prunay)
 - [x] Réserver la mairie
 - [ ] ➡️ **Confirmer le créneau définitif de la mairie** (Reporté)
@@ -102,12 +114,14 @@
 - [ ] ➡️ **Choisir l'officiant de cérémonie laïque** (Reporté)
 
 ### Phase J-12 à J-9 mois
+
 - [x] Commander la tenue (robe de mariée)
 - [x] Définir le thème/direction artistique
 - [ ] ➡️ **Structurer la cérémonie laïque** (Reporté)
 - [x] Vérifier les détails logistiques du lieu (couvre-feu, repli intérieur, accès)
 
 ### Phase J-9 à J-6 mois
+
 - [ ] ➡️ **Envoyer les save-the-date** (Reporté)
 - [ ] ➡️ **Finaliser la décoration** (Reporté - en cours)
 - [x] Prendre RDV essais coiffure/maquillage
@@ -119,25 +133,30 @@
 ### ⏰ Phase actuelle J-6 à J-3 mois (Priorisée par retard)
 
 #### 🔴 Retard Critique (+1 an)
+
 - [ ] **Mairie** : Confirmer le créneau définitif
 - [ ] **Vidéaste** : Réserver
 - [ ] **DJ** : Poursuivre la recherche et réserver (Shortlist en cours)
 - [ ] **Officiant** : Choisir pro ou proche
 
 #### 🟠 Retard Important (+9 mois)
+
 - [ ] **Cérémonie** : Structurer le déroulé (intervenants, rituels)
 
 #### 🟡 Retard Modéré (+3 à 6 mois)
+
 - [ ] **Save-the-date** : Envoyer (Urgent !)
 - [ ] **Alliances** : Commander
 - [ ] **Papeterie** : Commander (faire-part, menus)
 - [ ] **Robe** : Planifier le 2ᵉ essayage
 
 #### 🔥 Urgences du mois (J-6)
+
 - [ ] **Prestataires Enfants** : Choisir et verser l'acompte (Priorité absolue)
 - [ ] **Traiteur** : Trouver une alternative suite au refus de Nono (Critique)
 
 #### ✅ Planning Normal
+
 - [ ] **Costume** : Premier essayage (Husbands, Sézane, Les Nouveaux Ateliers)
 - [ ] **Caviste** : Commander les alcools (Champagne Xavier Loriot, H. Baty...)
 - [ ] **Assurance** : Souscrire assurance Château (> 3M €)

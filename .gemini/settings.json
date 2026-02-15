@@ -30,7 +30,7 @@
       "url": "https://mapstools.googleapis.com/mcp",
       "type": "http",
       "headers": {
-        "X-Goog-Api-Key": "AIzaSyA7Due3HhTOovj8G0cCmYPRhbhkuB7HJww"
+        "X-Goog-Api-Key": "${GOOGLE_MAPS_API_KEY}"
       }
     },
     "playwright": {
