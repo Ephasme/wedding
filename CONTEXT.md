@@ -30,11 +30,11 @@
 | Coiffeur     | 🔄 À contacter | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
 | Traiteur     | ❌ À trouver   | Ancien contact : Nono (Refusé)                                                                   | —       | —       |
 | Enfants      | 🔄 Devis reçus | Pikoty (Recommandé) / Wedding Sitter                                                             | ~660 €  | —       |
-| DJ/Musiciens | 🔄 Contactés | En attente de devis (envoyés le 15/02/2026 à 23h03)                                               | —       | —       |
+| DJ/Musiciens | 🔄 Contactés   | En attente de devis (envoyés le 15/02/2026 à 23h03)                                              | —       | —       |
 | Décoration   | 🔄 Devis reçu  | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
 | Costume      | ❌ À chercher  | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
 | Vidéaste     | ❌ À réserver  | —                                                                                                | —       | —       |
-| Officiant    | ❌ À choisir   | —                                                                                                | —       | —       |
+| Officiant    | ✅ Choisi      | Bastien (Témoin)                                                                                 | —       | —       |
 
 ---
 
@@ -56,7 +56,7 @@
 - DJ/Musiciens : ~1 000 € 🔄 (5%)
 - Alcools/Caviste : ~1 000 € 🔄
 - Papeterie : ~400 € ⏸️ (2%)
-- Officiant : ~500 € ❌ (3%)
+- Officiant : 0 € ✅ (Bastien)
 - Imprévus : ~975 € (5%)
 
 ---
@@ -73,27 +73,27 @@
 
 **Références :**
 
-- 505 — Arctic Monkeys *(indie rock)*
-- Achilles Come Down — Gang of Youths *(baroque pop / indie rock)*
-- After Dark — Mr.Kitty *(synthwave / darkwave)*
-- bad idea! — girl in red *(indie rock / garage rock)*
-- Cigar — Tamino *(indie rock / alternative)*
-- Daddy Issues — The Neighbourhood *(alternative rock / synth-pop)*
-- Daddy Issues (Remix) — The Neighbourhood & Syd *(alternative R&B / synth-pop)*
-- Dark Beach — Pastel Ghost *(darkwave / dream pop)*
-- Faces — The M Machine *(synth-pop / electro)*
-- Je te laisserai des mots — Patrick Watson *(indie folk / cinématique)*
-- ocean eyes — Billie Eilish *(dream pop / electropop)*
-- ROI (Instrumental) — VIDEOCLUB (reprise Amadeus2049) *(synth-pop)*
-- Sail — AWOLNATION *(electronic rock)*
-- Shadow Lady — Portwave *(synthwave)*
-- Strobe — deadmau5 *(progressive house)*
-- Sweater Weather — The Neighbourhood *(indie rock / alternative)*
-- Swing Lynn — Harmless *(dream pop / indie rock)*
-- Take Me to Church — Hozier *(blues rock / soul)*
-- Tek It — Cafuné *(indie pop)*
-- The Less I Know The Better — Tame Impala *(disco-funk / psychedelic pop)*
-- The Suburbs — Arcade Fire *(indie rock / art rock)*
+- 505 — Arctic Monkeys _(indie rock)_
+- Achilles Come Down — Gang of Youths _(baroque pop / indie rock)_
+- After Dark — Mr.Kitty _(synthwave / darkwave)_
+- bad idea! — girl in red _(indie rock / garage rock)_
+- Cigar — Tamino _(indie rock / alternative)_
+- Daddy Issues — The Neighbourhood _(alternative rock / synth-pop)_
+- Daddy Issues (Remix) — The Neighbourhood & Syd _(alternative R&B / synth-pop)_
+- Dark Beach — Pastel Ghost _(darkwave / dream pop)_
+- Faces — The M Machine _(synth-pop / electro)_
+- Je te laisserai des mots — Patrick Watson _(indie folk / cinématique)_
+- ocean eyes — Billie Eilish _(dream pop / electropop)_
+- ROI (Instrumental) — VIDEOCLUB (reprise Amadeus2049) _(synth-pop)_
+- Sail — AWOLNATION _(electronic rock)_
+- Shadow Lady — Portwave _(synthwave)_
+- Strobe — deadmau5 _(progressive house)_
+- Sweater Weather — The Neighbourhood _(indie rock / alternative)_
+- Swing Lynn — Harmless _(dream pop / indie rock)_
+- Take Me to Church — Hozier _(blues rock / soul)_
+- Tek It — Cafuné _(indie pop)_
+- The Less I Know The Better — Tame Impala _(disco-funk / psychedelic pop)_
+- The Suburbs — Arcade Fire _(indie rock / art rock)_
 
 **Playlist type :** [Lien YouTube Music](https://music.youtube.com/playlist?list=PLZS0fv0SgjlKqsUZ2S9lwsROW3gAdoPhu&si=NL4bqWvsAiumhWiy)
 
@@ -101,12 +101,12 @@
 
 ### DJ à contacter
 
-https://www.mariages.net/musique-mariage/ouimix--e127323
-https://www.mariages.net/musique-mariage/dj-paris-event--e340578
-https://www.mariages.net/musique-mariage/greg-le-fourn--e399361
-https://www.mariages.net/musique-mariage/hermann-music--e319804
-https://www.mariages.net/musique-mariage/eric-sax-dj--e240182
-https://www.mariages.net/musique-mariage/p2g-event--e96692
+- https://www.mariages.net/musique-mariage/ouimix--e127323
+- https://www.mariages.net/musique-mariage/dj-paris-event--e340578
+- https://www.mariages.net/musique-mariage/greg-le-fourn--e399361
+- https://www.mariages.net/musique-mariage/hermann-music--e319804
+- https://www.mariages.net/musique-mariage/eric-sax-dj--e240182
+- https://www.mariages.net/musique-mariage/p2g-event--e96692
 
 ### Décoration & Fleuriste
 
@@ -133,6 +133,41 @@ https://www.mariages.net/musique-mariage/p2g-event--e96692
    - **Devis :** `documents/Decoration/DEVIS - Amazing Moments Event.jpg`
    - **Détails :** Cérémonie (1250€), Salle + Papeterie + Ciel de toit (1990€), Panneau (190€), Cadeaux (350€), Chaises (540€).
    - **Note :** Nettement moins cher que Dolly (-2 400 €) et inclut plus de prestations (papeterie, chaises, cadeaux). Reste au-dessus du budget initial (1 200 €).
+
+### Traiteur & Gastronomie
+
+**Style & Inspirations (Synthèse Pinterest + Benchmark) :**
+
+- **Concept : "Bistronomie Visuelle & Partage"**
+  - Une cuisine d'auteur décontractée mais technique, inspirée de la nouvelle scène parisienne (*Pouliche, Uroco*).
+  - Loin du traiteur mariage classique : on cherche la spontanéité, la fraîcheur et le "fait minute".
+
+- **La Carte (Mer & Végétal) :**
+  - *Focus Marin (Sables/Uroco) :* Cru et mariné. Ceviches, tartares au couteau, sashimis revisités, finger food de la mer (manger des produits nobles sans couverts).
+  - *Focus Végétal (Pouliche) :* Le légume n'est pas une garniture mais un plat. Rôti, en rubans, en crèmes d'herbes, coloré et gourmand.
+  - *Signature :* Assaisonnements vifs (agrumes, yuzu, miso, herbes fraîches).
+
+- **Formats & Service :**
+  - **Cocktail "Gastro" :** Pièces très travaillées visuellement (cornets, cups, cuillères) comme vu sur Pinterest.
+  - **Dîner Assis :** Service à l'assiette classique et élégant. On garde la finesse gastronomique et le dressage soigné des inspirations (comme *Uroco* ou *Pouliche*), mais avec un déroulé traditionnel (Entrée - Plat - Dessert).
+
+**Benchmark Restaurants (Inspirations Chefs) :**
+
+1.  **[Pouliche](https://www.poulicheparis.com/)** (Chef Amandine Chaignot)
+    *   *Style :* Cuisine de marché, joyeuse et spontanée. Focus sur le sourcing (producteurs engagés).
+    *   *À retenir pour le mariage :* L'approche "plats à partager" conviviaux mais raffinés, et la grande place laissée au végétal (ex: Mercredi Veggie).
+
+2.  **[Sables](https://sablesrestaurant.fr/fr)**
+    *   *Style :* 100% Marin / Fruits de mer. Inspiration bretonne moderne.
+    *   *À retenir pour le mariage :* Le concept de "finger food marine" (manger sans couverts) et la fraîcheur absolue des produits. Idéal pour le cocktail.
+
+3.  **[Uroco](https://www.instagram.com/uroco_fr/)**
+    *   *Style :* Tapas japonais / Fusion asiatique.
+    *   *À retenir pour le mariage :* La technique de découpe (poissons crus, tartares), les assaisonnements précis (yuzu, sésame) et le format "petites assiettes" très graphique.
+
+**Ressources :**
+
+- **Moodboard Pinterest :** [Lien vers le tableau](https://pin.it/3hYMVC4Iv)
 
 ### Animation Enfants
 
@@ -180,7 +215,7 @@ https://www.mariages.net/musique-mariage/p2g-event--e96692
 - [x] **Traiteur (Nono)** : Contacté (piste abandonnée suite refus)
 - [ ] ➡️ **Réserver le vidéaste** (Reporté)
 - [ ] ➡️ **Réserver DJ/musiciens** (Reporté)
-- [ ] ➡️ **Choisir l'officiant de cérémonie laïque** (Reporté)
+- [x] Choisir l'officiant de cérémonie laïque (Bastien)
 
 ### Phase J-12 à J-9 mois
 
@@ -206,7 +241,7 @@ https://www.mariages.net/musique-mariage/p2g-event--e96692
 - [ ] **Mairie** : Confirmer le créneau définitif
 - [ ] **Vidéaste** : Réserver
 - [x] **DJ** : Shortlist contactée le 15/02 (En attente de devis)
-- [ ] **Officiant** : Choisir pro ou proche
+- [x] **Officiant** : Bastien (Témoin)
 
 #### 🟠 Retard Important (+9 mois)
 
@@ -223,6 +258,10 @@ https://www.mariages.net/musique-mariage/p2g-event--e96692
 
 - [ ] **Prestataires Enfants** : Choisir entre Pikoty et Wedding Sitter et verser l'acompte (Priorité absolue)
 - [ ] **Traiteur** : Trouver une alternative suite au refus de Nono (Critique)
+
+#### 👥 Témoins & Proches
+
+- [ ] **Rencontre Cassandra & Bastien** : Organiser une soirée visio pour faire connaissance (incluant un petit JdR)
 
 #### ✅ Planning Normal
 
