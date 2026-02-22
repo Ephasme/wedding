@@ -1,24 +1,39 @@
 # Mariage — 28 août 2026
 
-**⏰ J-6 mois** (environ 200 jours restants)  
-**👥 Invités :** 57 personnes  
-**💰 Budget :** 11 675 € engagés / 20 000 € total (58%)  
-**📍 Lieu :** Château de Prunay, Verneuil-sur-Seine  
-**🕒 Mairie :** 10h00 → 11h00 (⚠️ voir si on peut décaler d'une heure)  
+**⏰ J-6 mois** (environ 200 jours restants)
+**👥 Invités :** 57 personnes
+**💰 Budget :** 11 675 € engagés / 20 000 € total (58%)
+**📍 Lieu :** Château de Prunay, Verneuil-sur-Seine
+**🕒 Mairie :** 10h00 → 11h00 (⚠️ voir si on peut décaler d'une heure)
 **🕒 Château :** 16h00 → 3h00 (contraintes bruit validées avec le château)
 
 ---
 
 ## 🚨 Actions prioritaires (7 prochains jours)
 
-1. **Prestataires Enfants** — Choisir, signer et verser l'acompte (Pikoty ou Wedding Sitter)
-2. **DJ/Musiciens** — Shortlist contactée (15/02), en attente de devis.
+1. **Prestataires Enfants** — Choix validé (Pikoty), en attente du contrat et de l'acompte
+2. **DJ/Musiciens** — RDV avec Greg Le Fourn prévu lundi 23/02 à 20h30.
 3. **Décoratrice/Fleuriste** — Suivre l'envoi du moodboard (attendu ce mardi)
 4. **Boissons/Alcools** — Trouver un caviste (40 bouteilles Champagne + Vins blancs)
 5. **Coiffeur** — Appeler Jean-Sebastien (Bloom Square) pour caler le RDV
 6. **Assurance** — Souscrire à l'assurance Château (> 3M €)
 
 ---
+
+## Invités
+
+invités qui vont devoir trouver un logement :
+
+- Mathilde
+- Bastien/Masumi/Henry/Victor (peut-être)
+- Tante + Marc / + 2 enfants
+- Mamie -> va avec papa
+- Morgane
+- Yasmine / +1
+
+=> Inviter Dom + sa femme
+
+Il faut qu'on cherche des propositions de logement pour les gens qui en ont besoin.
 
 ## Prestataires
 
@@ -28,9 +43,9 @@
 | Photographe  | ✅ Réservé     | [Zoé Satché](https://zoesatche.com/)                                                             | 2 400 € | —       |
 | Robe mariée  | ✅ Commandée   | —                                                                                                | 4 775 € | versé   |
 | Coiffeur     | 🔄 À contacter | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
-| Traiteur     | ❌ À trouver   | Ancien contact : Nono (Refusé)                                                                   | —       | —       |
-| Enfants      | 🔄 Devis reçus | Pikoty (Recommandé) / Wedding Sitter                                                             | ~660 €  | —       |
-| DJ/Musiciens | 🔄 Contactés   | En attente de devis (envoyés le 15/02/2026 à 23h03)                                              | —       | —       |
+| Traiteur     | 🔄 En cours    | Majorelle, L'Ami Pero, Cul de Poule, Marie Julien, Harmonia, 3G                                  | —       | —       |
+| Enfants      | 🔄 En attente  | Pikoty (Choisi - En attente contrat)                                             | ~660 €  | —       |
+| DJ/Musiciens | 🔄 RDV prévu   | Greg Le Fourn (Visio le 23/02 à 20h30)                                                           | —       | —       |
 | Décoration   | 🔄 Devis reçu  | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
 | Costume      | ❌ À chercher  | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
 | Vidéaste     | ❌ À réserver  | —                                                                                                | —       | —       |
@@ -40,14 +55,14 @@
 
 ## Budget
 
-**Budget total :** 20 000 €  
-**Déjà engagé :** 11 675 € (58%)  
+**Budget total :** 20 000 €
+**Déjà engagé :** 11 675 € (58%)
 **Reste à allouer :** 8 325 € (⚠️ Budget théorique dépassé avec le devis Déco)
 
 ### Répartition prévisionnelle
 
 - Lieu : 4 500 € ✅ (23%)
-- Traiteur : ~5 000 € 🚨 (Ajustement prévu : 100-125€/pers)
+- Traiteur : ~3 000 € à 4 800 € 🚨 (Ajustement prévu : 50-80€/pers)
 - Photographe : 2 400 € ✅ (12%)
 - Vidéaste : ~1 500 € ❌ (8%)
 - Robe mariée : 4 775 € ✅ (24%)
@@ -101,12 +116,7 @@
 
 ### DJ à contacter
 
-- https://www.mariages.net/musique-mariage/ouimix--e127323
-- https://www.mariages.net/musique-mariage/dj-paris-event--e340578
-- https://www.mariages.net/musique-mariage/greg-le-fourn--e399361
-- https://www.mariages.net/musique-mariage/hermann-music--e319804
-- https://www.mariages.net/musique-mariage/eric-sax-dj--e240182
-- https://www.mariages.net/musique-mariage/p2g-event--e96692
+- [Greg Le Fourn](https://www.mariages.net/musique-mariage/greg-le-fourn--e399361) - **RDV Visio Lundi 23/02 à 20h30**
 
 ### Décoration & Fleuriste
 
@@ -124,7 +134,6 @@
 **Pistes sérieuses :**
 
 1. **Dolly Event Designer**
-
    - **Statut :** Devis reçu (6 720 €) - En attente du Moodboard.
    - **Devis :** `documents/Decoration/DEVIS - Dolly Event Designer.pdf`
 
@@ -139,35 +148,44 @@
 **Style & Inspirations (Synthèse Pinterest + Benchmark) :**
 
 - **Concept : "Bistronomie Visuelle & Partage"**
-  - Une cuisine d'auteur décontractée mais technique, inspirée de la nouvelle scène parisienne (*Pouliche, Uroco*).
+  - Une cuisine d'auteur décontractée mais technique, inspirée de la nouvelle scène parisienne (_Pouliche, Uroco_).
   - Loin du traiteur mariage classique : on cherche la spontanéité, la fraîcheur et le "fait minute".
 
 - **La Carte (Mer & Végétal) :**
-  - *Focus Marin (Sables/Uroco) :* Cru et mariné. Ceviches, tartares au couteau, sashimis revisités, finger food de la mer (manger des produits nobles sans couverts).
-  - *Focus Végétal (Pouliche) :* Le légume n'est pas une garniture mais un plat. Rôti, en rubans, en crèmes d'herbes, coloré et gourmand.
-  - *Signature :* Assaisonnements vifs (agrumes, yuzu, miso, herbes fraîches).
+  - _Focus Marin (Sables/Uroco) :_ Cru et mariné. Ceviches, tartares au couteau, sashimis revisités, finger food de la mer (manger des produits nobles sans couverts).
+  - _Focus Végétal (Pouliche) :_ Le légume n'est pas une garniture mais un plat. Rôti, en rubans, en crèmes d'herbes, coloré et gourmand.
+  - _Signature :_ Assaisonnements vifs (agrumes, yuzu, miso, herbes fraîches).
 
 - **Formats & Service :**
   - **Cocktail "Gastro" :** Pièces très travaillées visuellement (cornets, cups, cuillères) comme vu sur Pinterest.
-  - **Dîner Assis :** Service à l'assiette classique et élégant. On garde la finesse gastronomique et le dressage soigné des inspirations (comme *Uroco* ou *Pouliche*), mais avec un déroulé traditionnel (Entrée - Plat - Dessert).
+  - **Dîner Assis :** Service à l'assiette classique et élégant. On garde la finesse gastronomique et le dressage soigné des inspirations (comme _Uroco_ ou _Pouliche_), mais avec un déroulé traditionnel (Entrée - Plat - Dessert).
 
 **Benchmark Restaurants (Inspirations Chefs) :**
 
 1.  **[Pouliche](https://www.poulicheparis.com/)** (Chef Amandine Chaignot)
-    *   *Style :* Cuisine de marché, joyeuse et spontanée. Focus sur le sourcing (producteurs engagés).
-    *   *À retenir pour le mariage :* L'approche "plats à partager" conviviaux mais raffinés, et la grande place laissée au végétal (ex: Mercredi Veggie).
+    - _Style :_ Cuisine de marché, joyeuse et spontanée. Focus sur le sourcing (producteurs engagés).
+    - _À retenir pour le mariage :_ L'approche "plats à partager" conviviaux mais raffinés, et la grande place laissée au végétal (ex: Mercredi Veggie).
 
 2.  **[Sables](https://sablesrestaurant.fr/fr)**
-    *   *Style :* 100% Marin / Fruits de mer. Inspiration bretonne moderne.
-    *   *À retenir pour le mariage :* Le concept de "finger food marine" (manger sans couverts) et la fraîcheur absolue des produits. Idéal pour le cocktail.
+    - _Style :_ 100% Marin / Fruits de mer. Inspiration bretonne moderne.
+    - _À retenir pour le mariage :_ Le concept de "finger food marine" (manger sans couverts) et la fraîcheur absolue des produits. Idéal pour le cocktail.
 
 3.  **[Uroco](https://www.instagram.com/uroco_fr/)**
-    *   *Style :* Tapas japonais / Fusion asiatique.
-    *   *À retenir pour le mariage :* La technique de découpe (poissons crus, tartares), les assaisonnements précis (yuzu, sésame) et le format "petites assiettes" très graphique.
+    - _Style :_ Tapas japonais / Fusion asiatique.
+    - _À retenir pour le mariage :_ La technique de découpe (poissons crus, tartares), les assaisonnements précis (yuzu, sésame) et le format "petites assiettes" très graphique.
 
 **Ressources :**
 
 - **Moodboard Pinterest :** [Lien vers le tableau](https://pin.it/3hYMVC4Iv)
+
+**Traiteurs contactés (le 22/02) :**
+
+- [Traiteur Majorelle](https://www.mariages.net/traiteur-mariage/traiteur-majorelle--e181981) ✅
+- [L'Ami Pero](https://www.mariages.net/traiteur-mariage/lamipero--e272979#gallery) ✅
+- [Cul de Poule](https://www.mariages.net/traiteur-mariage/cul-de-poule--e195033#gallery) ✅
+- [Marie Julien Cuisine](https://www.instagram.com/mariejuliencuisine/) ✅
+- [Traiteur Harmonia](https://www.1001traiteurs.com/traiteur/66836-traiteur-harmonia.aspx) ✅
+- [3G Réceptions](https://www.1001traiteurs.com/traiteur/3g-receptions.aspx) ✅
 
 ### Animation Enfants
 
@@ -183,8 +201,7 @@
 **Pistes sérieuses :**
 
 1. **Pikoty Event**
-
-   - **Statut :** Devis reçu (660 €) - **Choix recommandé** pour la sécurité et le professionnalisme.
+   - **Statut :** **Choisi** (Accord envoyé le 22/02) - En attente du contrat électronique.
    - **Devis :** `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf`
    - **Brochure :** `documents/Animation_Enfants/BROCHURE - Pikoty Event - 2025.pdf`
 
@@ -240,7 +257,7 @@
 
 - [ ] **Mairie** : Confirmer le créneau définitif
 - [ ] **Vidéaste** : Réserver
-- [x] **DJ** : Shortlist contactée le 15/02 (En attente de devis)
+- [x] **DJ** : Shortlist contactée le 15/02 (RDV avec Greg Le Fourn le 23/02 à 20h30)
 - [x] **Officiant** : Bastien (Témoin)
 
 #### 🟠 Retard Important (+9 mois)
@@ -256,8 +273,8 @@
 
 #### 🔥 Urgences du mois (J-6)
 
-- [ ] **Prestataires Enfants** : Choisir entre Pikoty et Wedding Sitter et verser l'acompte (Priorité absolue)
-- [ ] **Traiteur** : Trouver une alternative suite au refus de Nono (Critique)
+- [x] **Prestataires Enfants** : Choix validé (Pikoty), en attente du contrat
+- [x] **Traiteur** : Shortlist de 6 prestataires contactée le 22/02 (En attente de retours)
 
 #### 👥 Témoins & Proches
 

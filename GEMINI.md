@@ -1,0 +1,1 @@
+/Users/loup/code/perso/ai-tools/config/prompts/operations_assistant.md
