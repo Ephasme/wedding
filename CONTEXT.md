@@ -1,22 +1,26 @@
 # Mariage — 28 août 2026
 
 **⏰ J-6 mois** (environ 200 jours restants)
+
 **👥 Invités :** 57 personnes
+
 **💰 Budget :** 11 675 € engagés / 20 000 € total (58%)
+
 **📍 Lieu :** Château de Prunay, Verneuil-sur-Seine
-**🕒 Mairie :** 10h00 → 11h00 (⚠️ voir si on peut décaler d'une heure)
+
+**🕒 Mairie :** 11h00 ✅
+
 **🕒 Château :** 16h00 → 3h00 (contraintes bruit validées avec le château)
 
 ---
 
 ## 🚨 Actions prioritaires (7 prochains jours)
 
-1. **Prestataires Enfants** — Choix validé (Pikoty), en attente du contrat et de l'acompte
-2. **DJ/Musiciens** — RDV avec Greg Le Fourn prévu lundi 23/02 à 20h30.
-3. **Décoratrice/Fleuriste** — Suivre l'envoi du moodboard (attendu ce mardi)
-4. **Boissons/Alcools** — Trouver un caviste (40 bouteilles Champagne + Vins blancs)
-5. **Coiffeur** — Appeler Jean-Sebastien (Bloom Square) pour caler le RDV
-6. **Assurance** — Souscrire à l'assurance Château (> 3M €)
+1. **DJ/Musiciens** — RDV avec Greg Le Fourn prévu lundi 23/02 à 20h30.
+2. **Décoratrice/Fleuriste** — Suivre l'envoi du moodboard (attendu ce mardi)
+3. **Boissons/Alcools** — Trouver un caviste (40 bouteilles Champagne + Vins blancs)
+4. **Coiffeur** — Appeler Jean-Sebastien (Bloom Square) pour caler le RDV
+5. **Assurance** — Souscrire à l'assurance Château (> 3M €)
 
 ---
 
@@ -44,11 +48,10 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 | Robe mariée  | ✅ Commandée   | —                                                                                                | 4 775 € | versé   |
 | Coiffeur     | 🔄 À contacter | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
 | Traiteur     | 🔄 En cours    | Majorelle, L'Ami Pero, Cul de Poule, Marie Julien, Harmonia, 3G                                  | —       | —       |
-| Enfants      | 🔄 En attente  | Pikoty (Choisi - En attente contrat)                                             | ~660 €  | —       |
+| Enfants      | 🔄 En attente  | Pikoty (Choisi - En attente contrat)                                                             | ~660 €  | —       |
 | DJ/Musiciens | 🔄 RDV prévu   | Greg Le Fourn (Visio le 23/02 à 20h30)                                                           | —       | —       |
 | Décoration   | 🔄 Devis reçu  | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
 | Costume      | ❌ À chercher  | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
-| Vidéaste     | ❌ À réserver  | —                                                                                                | —       | —       |
 | Officiant    | ✅ Choisi      | Bastien (Témoin)                                                                                 | —       | —       |
 
 ---
@@ -57,20 +60,19 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 
 **Budget total :** 20 000 €
 **Déjà engagé :** 11 675 € (58%)
-**Reste à allouer :** 8 325 € (⚠️ Budget théorique dépassé avec le devis Déco)
+**Reste à allouer :** 8 325 €
+**Dépassement actuel :** ~2 630 € à 5 230 €
 
 ### Répartition prévisionnelle
 
 - Lieu : 4 500 € ✅ (23%)
 - Traiteur : ~3 000 € à 4 800 € 🚨 (Ajustement prévu : 50-80€/pers)
 - Photographe : 2 400 € ✅ (12%)
-- Vidéaste : ~1 500 € ❌ (8%)
 - Robe mariée : 4 775 € ✅ (24%)
 - Déco/fleurs : 4 320 € (Amazing Moments) à 6 720 € (Dolly) 🔄 (Dépassement prévu +3.1k à +5.5k)
 - Enfants : ~660 € 🔄
 - DJ/Musiciens : ~1 000 € 🔄 (5%)
 - Alcools/Caviste : ~1 000 € 🔄
-- Papeterie : ~400 € ⏸️ (2%)
 - Officiant : 0 € ✅ (Bastien)
 - Imprévus : ~975 € (5%)
 
@@ -189,75 +191,26 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 
 ### Animation Enfants
 
-**Comparatif des devis :**
+**Prestataire choisi :** **Pikoty Event**
 
-| Critère       | Pikoty Event (Recommandé)                                       | Wedding Sitter                      |
-| :------------ | :-------------------------------------------------------------- | :---------------------------------- |
-| **Total TTC** | **660,00 €**                                                    | **640,01 €**                        |
-| **Acompte**   | 30 % (198,00 €)                                                 | 50 % (320,01 €)                     |
-| **Avantages** | Structure pro, animateurs diplômés, matériel certifié, flexible | Prix légèrement inférieur (-20 €)   |
-| **Risques**   | Faibles                                                         | Manque de mentions légales et cadre |
-
-**Pistes sérieuses :**
-
-1. **Pikoty Event**
-   - **Statut :** **Choisi** (Accord envoyé le 22/02) - En attente du contrat électronique.
-   - **Devis :** `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf`
-   - **Brochure :** `documents/Animation_Enfants/BROCHURE - Pikoty Event - 2025.pdf`
-
-2. **Wedding Sitter**
-   - **Statut :** Devis reçu (640 €).
-   - **Devis :** `documents/Animation_Enfants/DEVIS - Wedding Sitter.pdf`
+- **Statut :** Choisi (Accord envoyé le 22/02) — En attente du contrat électronique.
+- **Devis :** `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf`
+- **Brochure :** `documents/Animation_Enfants/BROCHURE - Pikoty Event - 2025.pdf`
 
 **Documents :**
 
 - `documents/Decoration/DEVIS - Dolly Event Designer.pdf` (Dolly Event Designer)
 - `documents/Decoration/DEVIS - Amazing Moments Event.jpg` (Amazing Moments Event)
 - `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf` (Pikoty Event)
-- `documents/Animation_Enfants/DEVIS - Wedding Sitter.pdf` (Wedding Sitter)
-- `documents/Animation_Enfants/ANALYSE - Comparatif Devis Animation.md` (Analyse comparative)
 
 ---
 
-## Planning & checklist
-
-### Phase J-18 à J-12 mois
-
-- [x] Réserver le lieu de réception (Château de Prunay)
-- [x] Réserver la mairie
-- [ ] ➡️ **Confirmer le créneau définitif de la mairie** (Reporté)
-- [x] Réserver le photographe (Zoé Satché)
-- [x] Définir le budget global et répartition par poste
-- [x] Finaliser la liste d'invités
-- [x] **Traiteur (Nono)** : Contacté (piste abandonnée suite refus)
-- [ ] ➡️ **Réserver le vidéaste** (Reporté)
-- [ ] ➡️ **Réserver DJ/musiciens** (Reporté)
-- [x] Choisir l'officiant de cérémonie laïque (Bastien)
-
-### Phase J-12 à J-9 mois
-
-- [x] Commander la tenue (robe de mariée)
-- [x] Définir le thème/direction artistique
-- [ ] ➡️ **Structurer la cérémonie laïque** (Reporté)
-- [x] Vérifier les détails logistiques du lieu (couvre-feu, repli intérieur, accès)
-
-### Phase J-9 à J-6 mois
-
-- [ ] ➡️ **Envoyer les save-the-date** (Reporté)
-- [ ] ➡️ **Finaliser la décoration** (Reporté - en cours)
-- [x] Prendre RDV essais coiffure/maquillage
-- [ ] ➡️ **Planifier le 2ᵉ essayage de la robe** (Reporté)
-- [ ] ➡️ **Commander la papeterie** (Reporté)
-- [ ] ➡️ **Commander les alliances** (Reporté)
-- [x] Confirmer le plan B météo avec le lieu
-
-### ⏰ Phase actuelle J-6 à J-3 mois (Priorisée par retard)
+### ⏰ Phase actuelle J-6 à J-3 mois
 
 #### 🔴 Retard Critique (+1 an)
 
-- [ ] **Mairie** : Confirmer le créneau définitif
-- [ ] **Vidéaste** : Réserver
-- [x] **DJ** : Shortlist contactée le 15/02 (RDV avec Greg Le Fourn le 23/02 à 20h30)
+- [x] **Mairie** : 11h00 (confirmé)
+- [ ] ⌛ **DJ** : Shortlist contactée le 15/02 (RDV avec Greg Le Fourn le 23/02 à 20h30)
 - [x] **Officiant** : Bastien (Témoin)
 
 #### 🟠 Retard Important (+9 mois)
@@ -268,13 +221,12 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 
 - [ ] **Save-the-date** : Envoyer (Urgent !)
 - [ ] **Alliances** : Commander
-- [ ] **Papeterie** : Commander (faire-part, menus)
 - [ ] **Robe** : Planifier le 2ᵉ essayage
 
 #### 🔥 Urgences du mois (J-6)
 
-- [x] **Prestataires Enfants** : Choix validé (Pikoty), en attente du contrat
-- [x] **Traiteur** : Shortlist de 6 prestataires contactée le 22/02 (En attente de retours)
+- [ ] ⌛ **Prestataires Enfants** : Choix validé (Pikoty), en attente du contrat
+- [ ] ⌛ **Traiteur** : Shortlist de 6 prestataires contactée le 22/02 (En attente de retours)
 
 #### 👥 Témoins & Proches
 
