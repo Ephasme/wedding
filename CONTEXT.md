@@ -14,30 +14,20 @@
 
 ---
 
-## 🚨 Actions prioritaires (7 prochains jours)
-
-1. **DJ/Musiciens** — RDV avec Greg Le Fourn prévu lundi 23/02 à 20h30.
-2. **Décoratrice/Fleuriste** — Suivre l'envoi du moodboard (attendu ce mardi)
-3. **Boissons/Alcools** — Trouver un caviste (40 bouteilles Champagne + Vins blancs)
-4. **Coiffeur** — Appeler Jean-Sebastien (Bloom Square) pour caler le RDV
-5. **Assurance** — Souscrire à l'assurance Château (> 3M €)
-
----
-
 ## Invités
 
-invités qui vont devoir trouver un logement :
+Invités qui vont devoir trouver un logement :
 
 - Mathilde
 - Bastien/Masumi/Henry/Victor (peut-être)
 - Tante + Marc / + 2 enfants
-- Mamie -> va avec papa
+- Mamie → va avec papa
 - Morgane
 - Yasmine / +1
 
-=> Inviter Dom + sa femme
+→ Inviter Dom + sa femme
 
-Il faut qu'on cherche des propositions de logement pour les gens qui en ont besoin.
+Il faut chercher des propositions de logement pour les invités qui en ont besoin.
 
 ## Prestataires
 
@@ -46,12 +36,12 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 | Lieu         | ✅ Réservé     | [Château de Prunay](https://chateaudeprunay.fr/)                                                 | 4 500 € | 2 250 € |
 | Photographe  | ✅ Réservé     | [Zoé Satché](https://zoesatche.com/)                                                             | 2 400 € | —       |
 | Robe mariée  | ✅ Commandée   | —                                                                                                | 4 775 € | versé   |
-| Coiffeur     | 🔄 À contacter | Bloom Square (Jean-Sebastien)                                                                    | —       | —       |
+| Coiffeur     | 🔄 À contacter | Bloom Square (Jean-Sébastien)                                                                    | —       | —       |
 | Traiteur     | 🔄 En cours    | Majorelle, L'Ami Pero, Cul de Poule, Marie Julien, Harmonia, 3G                                  | —       | —       |
-| Enfants      | 🔄 En attente  | Pikoty (Choisi - En attente contrat)                                                             | ~660 €  | —       |
-| DJ/Musiciens | 🔄 RDV prévu   | Greg Le Fourn (Visio le 23/02 à 20h30)                                                           | —       | —       |
+| Enfants      | 🔄 En attente  | Pikoty (Choisi — en attente contrat)                                                             | ~660 €  | —       |
+| DJ/Musiciens | 🔄 En cours    | Greg Le Fourn (rendez-vous 23/02 fait — en attente devis après infos timing château)                     | —       | —       |
 | Décoration   | 🔄 Devis reçu  | [Dolly Event Designer](https://www.mariages.net/decoration-mariage/dolly-eventdesigner--e355299) | 6 720 € | —       |
-| Costume      | ❌ À chercher  | Sézane, Les Nouveaux Ateliers, Husbands...                                                       | —       | —       |
+| Costume      | ❌ À chercher  | Sézane, Les Nouveaux Ateliers, Husbands…                                                       | —       | —       |
 | Officiant    | ✅ Choisi      | Bastien (Témoin)                                                                                 | —       | —       |
 
 ---
@@ -66,10 +56,10 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 ### Répartition prévisionnelle
 
 - Lieu : 4 500 € ✅ (23%)
-- Traiteur : ~3 000 € à 4 800 € 🚨 (Ajustement prévu : 50-80€/pers)
+- Traiteur : ~3 000 € à 4 800 € 🚨 (Ajustement prévu : 50-80 €/pers)
 - Photographe : 2 400 € ✅ (12%)
 - Robe mariée : 4 775 € ✅ (24%)
-- Déco/fleurs : 4 320 € (Amazing Moments) à 6 720 € (Dolly) 🔄 (Dépassement prévu +3.1k à +5.5k)
+- Déco/fleurs : 4 320 € (Amazing Moments) à 6 720 € (Dolly) 🔄 (Dépassement prévu +3,1k à +5,5k)
 - Enfants : ~660 € 🔄
 - DJ/Musiciens : ~1 000 € 🔄 (5%)
 - Alcools/Caviste : ~1 000 € 🔄
@@ -80,45 +70,23 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 
 ## Préférences & direction artistique
 
-### Style général
-
 **Atmosphère** — Moderne, épuré, intimiste, élégant sans être classique. Ambiance émotionnelle et immersive.
 
-### Goûts musicaux
+### Musique
 
-**Univers apprécié** — Deux piliers : l'indie rock/alternative (Arctic Monkeys, Tame Impala, Arcade Fire) et l'électronique sombre à coloration rétro-80s (synthwave, darkwave, synth-pop — Mr.Kitty, Pastel Ghost, deadmau5). Le fil conducteur est l'atmosphère immersive : nappes de synthés, productions soignées, montées en intensité. Certains titres misent sur la voix (Hozier, Tamino, Gang of Youths), d'autres sur la texture sonore pure (Strobe, Shadow Lady, Dark Beach). Le couple privilégie les morceaux qui créent un univers plutôt qu'un simple fond sonore.
+- **Univers :** Indie rock/alternative (Arctic Monkeys, Tame Impala, Arcade Fire) + électronique sombre/rétro-80s (synthwave, darkwave — Mr.Kitty, Pastel Ghost, deadmau5). Priorité aux morceaux qui créent une atmosphère immersive.
+- **Playlist de référence :** [YouTube Music](https://music.youtube.com/playlist?list=PLZS0fv0SgjlKqsUZ2S9lwsROW3gAdoPhu&si=NL4bqWvsAiumhWiy)
+- **À éviter :** Variété française kitsch, tubes "ambiance mariage classique" (Macarena, YMCA, Patrick Sébastien…). Ligne rouge confirmée avec Greg.
+- **Stratégie :** Alterner moments marqués pour les mariés et moments fédérateurs pour les invités.
 
-**Références :**
+### DJ — Greg Le Fourn
 
-- 505 — Arctic Monkeys _(indie rock)_
-- Achilles Come Down — Gang of Youths _(baroque pop / indie rock)_
-- After Dark — Mr.Kitty _(synthwave / darkwave)_
-- bad idea! — girl in red _(indie rock / garage rock)_
-- Cigar — Tamino _(indie rock / alternative)_
-- Daddy Issues — The Neighbourhood _(alternative rock / synth-pop)_
-- Daddy Issues (Remix) — The Neighbourhood & Syd _(alternative R&B / synth-pop)_
-- Dark Beach — Pastel Ghost _(darkwave / dream pop)_
-- Faces — The M Machine _(synth-pop / electro)_
-- Je te laisserai des mots — Patrick Watson _(indie folk / cinématique)_
-- ocean eyes — Billie Eilish _(dream pop / electropop)_
-- ROI (Instrumental) — VIDEOCLUB (reprise Amadeus2049) _(synth-pop)_
-- Sail — AWOLNATION _(electronic rock)_
-- Shadow Lady — Portwave _(synthwave)_
-- Strobe — deadmau5 _(progressive house)_
-- Sweater Weather — The Neighbourhood _(indie rock / alternative)_
-- Swing Lynn — Harmless _(dream pop / indie rock)_
-- Take Me to Church — Hozier _(blues rock / soul)_
-- Tek It — Cafuné _(indie pop)_
-- The Less I Know The Better — Tame Impala _(disco-funk / psychedelic pop)_
-- The Suburbs — Arcade Fire _(indie rock / art rock)_
-
-**Playlist type :** [Lien YouTube Music](https://music.youtube.com/playlist?list=PLZS0fv0SgjlKqsUZ2S9lwsROW3gAdoPhu&si=NL4bqWvsAiumhWiy)
-
-**À éviter absolument** — Variété française kitsch (Patrick Sébastien, Claude François), tubes pop FM génériques des années 90/2000. Plus largement : tout morceau "ambiance mariage classique" joué par réflexe (Macarena, YMCA, etc.).
-
-### DJ à contacter
-
-- [Greg Le Fourn](https://www.mariages.net/musique-mariage/greg-le-fourn--e399361) - **RDV Visio Lundi 23/02 à 20h30**
+- **Contact :** [Greg Le Fourn](https://www.mariages.net/musique-mariage/greg-le-fourn--e399361) — Rendez-vous visio du 23/02 fait.
+- **Rôle :** Orchestrateur de la soirée (musique, coordination prestataires, gestion rythme/énergie).
+- **Animations :** Couple réticent aux jeux ; Greg doit être prévenu en amont de toute animation des témoins.
+- **Cérémonie laïque :** Greg propose aussi d'officier — à discuter (Bastien déjà sollicité mais très occupé).
+- **Logistique :** Arrivée ~15h, sets séparés cocktail/soirée. Cocktail et soirée facturés séparément, options en supplément. À clarifier avec le château : contraintes horaires et tolérance démontage.
+- **Prochaines étapes :** Échanges par email direct. En attente du devis après transmission des infos timing château. Contacter au moins 1 autre DJ pour comparatif.
 
 ### Décoration & Fleuriste
 
@@ -136,51 +104,39 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 **Pistes sérieuses :**
 
 1. **Dolly Event Designer**
-   - **Statut :** Devis reçu (6 720 €) - En attente du Moodboard.
+   - **Statut :** Devis reçu (6 720 €) - En attente du moodboard.
    - **Devis :** `documents/Decoration/DEVIS - Dolly Event Designer.pdf`
 
 2. **Amazing Moments Event (AmEvent92)**
    - **Statut :** Devis reçu (4 320 €).
    - **Devis :** `documents/Decoration/DEVIS - Amazing Moments Event.jpg`
-   - **Détails :** Cérémonie (1250€), Salle + Papeterie + Ciel de toit (1990€), Panneau (190€), Cadeaux (350€), Chaises (540€).
-   - **Note :** Nettement moins cher que Dolly (-2 400 €) et inclut plus de prestations (papeterie, chaises, cadeaux). Reste au-dessus du budget initial (1 200 €).
+   - **Détails :** Cérémonie (1 250 €), Salle + Papeterie + Ciel de toit (1 990 €), Panneau (190 €), Cadeaux (350 €), Chaises (540 €).
+   - **Note :** Nettement moins chère que Dolly (−2 400 €) et inclut plus de prestations (papeterie, chaises, cadeaux). Reste au-dessus du budget initial (1 200 €).
 
 ### Traiteur & Gastronomie
 
-**Style & Inspirations (Synthèse Pinterest + Benchmark) :**
+**Concept :** Bistronomie visuelle & partage — cuisine d'auteur décontractée mais technique, inspirée de la scène parisienne. Loin du traiteur mariage classique.
 
-- **Concept : "Bistronomie Visuelle & Partage"**
-  - Une cuisine d'auteur décontractée mais technique, inspirée de la nouvelle scène parisienne (_Pouliche, Uroco_).
-  - Loin du traiteur mariage classique : on cherche la spontanéité, la fraîcheur et le "fait minute".
+**Orientations culinaires :**
 
-- **La Carte (Mer & Végétal) :**
-  - _Focus Marin (Sables/Uroco) :_ Cru et mariné. Ceviches, tartares au couteau, sashimis revisités, finger food de la mer (manger des produits nobles sans couverts).
-  - _Focus Végétal (Pouliche) :_ Le légume n'est pas une garniture mais un plat. Rôti, en rubans, en crèmes d'herbes, coloré et gourmand.
-  - _Signature :_ Assaisonnements vifs (agrumes, yuzu, miso, herbes fraîches).
+- **Mer :** Cru et mariné (ceviches, tartares, sashimis revisités, finger food marine)
+- **Végétal :** Le légume comme plat principal (rôti, rubans, crèmes d'herbes)
+- **Signature :** Assaisonnements vifs (agrumes, yuzu, miso, herbes fraîches)
 
-- **Formats & Service :**
-  - **Cocktail "Gastro" :** Pièces très travaillées visuellement (cornets, cups, cuillères) comme vu sur Pinterest.
-  - **Dîner Assis :** Service à l'assiette classique et élégant. On garde la finesse gastronomique et le dressage soigné des inspirations (comme _Uroco_ ou _Pouliche_), mais avec un déroulé traditionnel (Entrée - Plat - Dessert).
+**Formats :**
 
-**Benchmark Restaurants (Inspirations Chefs) :**
+- **Cocktail gastro :** Pièces très travaillées visuellement
+- **Dîner assis :** Service à l'assiette, dressage soigné (Entrée - Plat - Dessert)
 
-1.  **[Pouliche](https://www.poulicheparis.com/)** (Chef Amandine Chaignot)
-    - _Style :_ Cuisine de marché, joyeuse et spontanée. Focus sur le sourcing (producteurs engagés).
-    - _À retenir pour le mariage :_ L'approche "plats à partager" conviviaux mais raffinés, et la grande place laissée au végétal (ex: Mercredi Veggie).
+**Inspirations chefs :**
 
-2.  **[Sables](https://sablesrestaurant.fr/fr)**
-    - _Style :_ 100% Marin / Fruits de mer. Inspiration bretonne moderne.
-    - _À retenir pour le mariage :_ Le concept de "finger food marine" (manger sans couverts) et la fraîcheur absolue des produits. Idéal pour le cocktail.
+- [Pouliche](https://www.poulicheparis.com/) — Cuisine de marché, partage convivial, place au végétal
+- [Sables](https://sablesrestaurant.fr/fr) — Finger food marine, fraîcheur absolue
+- [Uroco](https://www.instagram.com/uroco_fr/) — Fusion japonaise, découpe précise, dressage graphique
 
-3.  **[Uroco](https://www.instagram.com/uroco_fr/)**
-    - _Style :_ Tapas japonais / Fusion asiatique.
-    - _À retenir pour le mariage :_ La technique de découpe (poissons crus, tartares), les assaisonnements précis (yuzu, sésame) et le format "petites assiettes" très graphique.
+**Moodboard :** [Pinterest](https://pin.it/3hYMVC4Iv)
 
-**Ressources :**
-
-- **Moodboard Pinterest :** [Lien vers le tableau](https://pin.it/3hYMVC4Iv)
-
-**Traiteurs contactés (le 22/02) :**
+**Traiteurs contactés (22/02) :**
 
 - [Traiteur Majorelle](https://www.mariages.net/traiteur-mariage/traiteur-majorelle--e181981) ✅
 - [L'Ami Pero](https://www.mariages.net/traiteur-mariage/lamipero--e272979#gallery) ✅
@@ -193,7 +149,7 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 
 **Prestataire choisi :** **Pikoty Event**
 
-- **Statut :** Choisi (Accord envoyé le 22/02) — En attente du contrat électronique.
+- **Statut :** Choisi (accord envoyé le 22/02) — en attente du contrat électronique.
 - **Devis :** `documents/Animation_Enfants/DEVIS - Pikoty Event.pdf`
 - **Brochure :** `documents/Animation_Enfants/BROCHURE - Pikoty Event - 2025.pdf`
 
@@ -205,40 +161,93 @@ Il faut qu'on cherche des propositions de logement pour les gens qui en ont beso
 
 ---
 
-### ⏰ Phase actuelle J-6 à J-3 mois
+## 📋 Tâches à faire
 
-#### 🔴 Retard Critique (+1 an)
+### 🔲 À faire
 
-- [x] **Mairie** : 11h00 (confirmé)
-- [ ] ⌛ **DJ** : Shortlist contactée le 15/02 (RDV avec Greg Le Fourn le 23/02 à 20h30)
-- [x] **Officiant** : Bastien (Témoin)
+**P0 — Critique**
 
-#### 🟠 Retard Important (+9 mois)
+- [ ] **Préparer la cérémonie**
+  - [ ] Choisir le maître de cérémonie (Bastien)
+  - [ ] Structurer le déroulé (intervenants, rituels)
+- [ ] **Sélectionner un coiffeur**
+  - [ ] Demander des devis (Jean-Sébastien — Bloom Square)
+  - [ ] Sélectionner un coiffeur
+  - [ ] Organiser la logistique coiffure (lieu, horaire, etc.)
+- [ ] **Renvoyer les airpods**
+- [ ] **Traiter la dermatillomanie**
 
-- [ ] **Cérémonie** : Structurer le déroulé (intervenants, rituels)
+**P1 — Important**
 
-#### 🟡 Retard Modéré (+3 à 6 mois)
+- [ ] **Structurer la garde partagée des enfants**
+  - [ ] Mettre en place un mode de garde avec Carole
+  - [ ] Reprendre contact avec Kinougarde
+  - [ ] Choisir une nounou avec Pio et Eliot
+  - [ ] Signer un mode de garde qui convient
+- [ ] **Acheter les alliances**
+  - [ ] Aller regarder les alliances et se mettre d'accord sur un top 3
+  - [ ] Commander les alliances
+  - [ ] Récupérer les alliances
+  - [ ] Choisir un support pour les alliances
+  - [ ] Commander le support
+  - [ ] Récupérer le support
+- [ ] **Acheter la robe de mariée**
+  - [ ] Faire le deuxième essayage
+  - [ ] Récupérer la robe
+- [ ] **Acheter le costume du marié**
+  - [ ] Premier essayage (Husbands, Sézane, Les Nouveaux Ateliers) — faire un top 3
+  - [ ] Commander le costume
+  - [ ] Récupérer le costume
+- [ ] **Prendre un rendez-vous chez l'ophtalmo**
+- [ ] **Organiser la rencontre Cassandra & Bastien** : Soirée visio pour faire connaissance (incluant un petit JdR)
 
-- [ ] **Save-the-date** : Envoyer (Urgent !)
-- [ ] **Alliances** : Commander
-- [ ] **Robe** : Planifier le 2ᵉ essayage
+**P2 — Normal**
 
-#### 🔥 Urgences du mois (J-6)
+- [ ] **Sélectionner un caviste**
+  - [ ] Contacter 3 ou 4 cavistes
+  - [ ] Comparer les devis et choisir
+  - [ ] Commander les alcools (Champagne Xavier Loriot, H. Baty…)
+  - [ ] Faire réceptionner les alcools par le traiteur (à confirmer)
+- [ ] **Préparer les vœux personnels**
+- [ ] **Organiser la logistique**
+  - [ ] Prévoir les transports et parkings
+  - [ ] Organiser l'hébergement des invités qui en ont besoin
 
-- [ ] ⌛ **Prestataires Enfants** : Choix validé (Pikoty), en attente du contrat
-- [ ] ⌛ **Traiteur** : Shortlist de 6 prestataires contactée le 22/02 (En attente de retours)
+**P3 — Faible**
 
-#### 👥 Témoins & Proches
+- [ ] **Prendre un rendez-vous chez le proctologue**
 
-- [ ] **Rencontre Cassandra & Bastien** : Organiser une soirée visio pour faire connaissance (incluant un petit JdR)
+### 🔄 En cours
 
-#### ✅ Planning Normal
+- [ ] **Finaliser le lieu** : Château de Prunay (réservé)
+  - [x] Visiter des lieux
+  - [x] Choisir un lieu
+  - [x] Signer le devis
+  - [x] Signer le contrat de location
+  - [ ] Payer l'acompte au château
+  - [ ] Souscrire l'assurance Château (> 3M €)
+- [ ] **Sélectionner un DJ**
+  - [ ] Vérifier avec le Château les contraintes horaires et la tolérance de démontage, transmettre à Greg (→ devis)
+  - [ ] Discuter avec partenaire de l'option cérémonie laïque par Greg ; consulter son site officiant
+  - [ ] Créer le déroulé précis de la soirée avec Greg
+  - [ ] Contacter au moins 1 autre DJ pour devis comparatif
+- [ ] **Réserver l'animation enfants** : Pikoty choisi
+  - [x] Obtenir deux ou trois devis
+  - [x] Sélectionner un prestataire
+  - [ ] Signer le contrat
+- [ ] **Sélectionner un traiteur**
+  - [x] Contacter une shortlist de traiteurs (contactée le 22/02 — en attente de retours)
+  - [ ] Sélectionner un traiteur
+  - [ ] Concevoir le menu avec le traiteur
+  - [ ] Signer le contrat
+- [ ] **Sélectionner une décoratrice/fleuriste**
+  - [x] Contacter une shortlist de décoratrices (deux devis reçus)
+  - [ ] Évaluer les moodboards et les devis
+  - [ ] Sélectionner une décoratrice
+  - [ ] Concevoir et valider la décoration avec la décoratrice
+  - [ ] Signer le contrat
 
-- [ ] **Costume** : Premier essayage (Husbands, Sézane, Les Nouveaux Ateliers)
-- [ ] **Caviste** : Commander les alcools (Champagne Xavier Loriot, H. Baty...)
-- [ ] **Assurance** : Souscrire assurance Château (> 3M €)
-- [ ] **Faire-part** : Envoyer (RSVP 8-10 semaines avant)
-- [ ] **Coiffeur** : Confirmer le RDV avec Jean-Sebastien (Bloom Square)
-- [ ] **Suivi financier** : Tenir les comptes à jour
-- [ ] **Vœux** : Préparer les vœux personnels
-- [ ] **Logistique** : Prévoir transports/parking
+### ✅ Terminé
+
+- [x] **Réserver la mairie** : 11h00 (confirmé)
+- [x] **Choisir l'officiant** : Bastien (Témoin)
