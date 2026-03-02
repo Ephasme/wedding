@@ -1,0 +1,21 @@
+agents:
+- editorial_assistant
+- general_legal_advisor
+- operations_assistant
+- wedding_planner
+skills:
+- file-organizer
+- jpg-to-markdown
+- message-writer
+commands: []
+mcp-servers:
+- fetch
+- google-maps-grounding-lite
+- google-workspace-perso
+- playwright
+settings:
+  mode: yolo
+  experimental: true
+  subagents: true
+  tools:
+    sandbox: false

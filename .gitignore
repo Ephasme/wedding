@@ -33,3 +33,13 @@ terraform.rc
 
 # Temporary files
 _tmp*
+
+# ai-sync managed entries
+.cursor/*
+.codex/*
+.gemini/*
+.ai-sync.local.yaml
+.ai-sync/state/
+
+# Large local media files
+documents/DJ/*.wav
